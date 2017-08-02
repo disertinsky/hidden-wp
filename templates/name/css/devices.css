@@ -1,0 +1,127 @@
+@media handheld, only screen and (max-width: 1680px), only screen and (max-device-width: 1680px) and (orientation:portrait){ 
+
+}
+@media handheld, only screen and (max-width: 1660px), only screen and (max-device-width: 1660px) and (orientation:portrait){ 
+
+}
+
+@media handheld, only screen and (max-width: 1600px), only screen and (max-device-width: 1600px) and (orientation:portrait){ 
+
+}
+
+@media handheld, only screen and (max-width: 1440px), only screen and (max-device-width: 1440px) and (orientation:portrait){ 
+.logo{margin-top: 100px;}
+}
+@media handheld, only screen and (max-width: 1366px), only screen and (max-device-width: 1366px) and (orientation:portrait){ 
+.logo{margin-top: 75px;}
+}
+@media handheld, only screen and (max-width: 1365px), only screen and (max-device-width: 1365px) and (orientation:portrait){ 
+
+}
+@media handheld, only screen and (max-width: 1280px), only screen and (max-device-width: 1280px) and (orientation:portrait){ 
+.logo{margin-top: 51px;}
+}
+@media handheld, only screen and (max-width: 1279px), only screen and (max-device-width: 1279px) and (orientation:portrait){ 
+
+}
+@media handheld, only screen and (max-width: 1160px), only screen and (max-device-width: 1160px) and (orientation:portrait){ 
+
+}
+@media handheld, only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) and (orientation:portrait){ 
+.hidden_slider{display: none;}
+.logo{
+    margin-left: -153px;
+    margin-top: 9px;
+    max-width: 270px;
+}
+}
+
+@media handheld, only screen and (max-width: 980px), only screen and (max-device-width: 980px) and (orientation:portrait){ 
+
+}
+
+@media handheld, only screen and (max-width: 991px), only screen and (max-device-width: 991px) and (orientation:portrait){ 
+.left_button button {
+    left: 50%;
+    margin-bottom: 30px;
+    margin-left: -150px;
+    position: relative;
+    right: 0;
+    width: 300px;
+}
+
+.right_button button {
+    left: 50%;
+    margin-left: -150px;
+    position: relative;
+    width: 300px;
+}
+.romb_logo img{
+    position: relative;
+    left: 50% !important;
+    margin-left: -70px !important;
+}
+.why_lucky h1 {
+    left: 50% !important;
+    margin-left: -15px !important;
+}
+
+.telholder {
+    text-align: center;
+}
+}
+@media handheld, only screen and (max-width: 850px), only screen and (max-device-width: 850px) and (orientation:portrait){ 
+
+}
+@media handheld, only screen and (max-width: 800px), only screen and (max-device-width: 800px) and (orientation:portrait){ 
+
+}
+@media handheld, only screen and (max-width: 768px), only screen and (max-device-width: 768px) and (orientation:portrait){ 
+
+}
+@media handheld, only screen and (max-width: 767px), only screen and (max-device-width: 767px) and (orientation:portrait){ 
+.slick_slider2 img{
+    width: 100% !important;
+}
+
+}
+
+@media handheld, only screen and (max-width: 650px), only screen and (max-device-width: 650px) and (orientation:portrait){ 
+.feedback_block h1 {
+    white-space: normal;
+}
+}
+@media handheld, only screen and (max-width: 550px), only screen and (max-device-width: 550px) and (orientation:portrait){
+.img_caption {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: -70px;
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+    width: auto;
+}
+} 
+
+@media handheld, only screen and (max-width: 450px), only screen and (max-device-width: 450px) and (orientation:portrait){ 
+
+}
+
+@media handheld, only screen and (max-width: 360px), only screen and (max-device-width: 360px) and (orientation:portrait){ 
+.telholder{
+    margin-left: 140px;
+    max-width: 200px;
+    margin-top: 12px;
+    position: absolute !important;
+}
+.why_text {
+    font-size: 18px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+}
+
+
+
+
