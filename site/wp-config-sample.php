@@ -77,6 +77,11 @@ $table_prefix  = 'wp_';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
 define('WP_DEBUG', false);
+define('WP_DEFAULT_THEME', 'name');
+define ('WP_POST_REVISIONS', true );
+define( 'AUTOSAVE_INTERVAL', 320 );
+define( 'WP_POST_REVISIONS', 2 );
+define( 'UPLOADS', ''.'../files' );
 
 /* Это всё, дальше не редактируем. Успехов! */
 
